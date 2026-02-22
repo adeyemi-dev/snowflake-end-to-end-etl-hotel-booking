@@ -11,6 +11,8 @@ Starting from raw CSV hotel booking data, the pipeline:
 
 > Built as a personal portfolio project to demonstrate my Snowflake data engineering and analytics skills.
 
+<img width="4612" height="1308" alt="image" src="https://github.com/user-attachments/assets/48a6ff84-8bd4-44eb-986b-670d59bf765c" />
+
 ---
 
 ## Tech Stack
